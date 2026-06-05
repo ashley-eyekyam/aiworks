@@ -1,3 +1,6 @@
 # Source logo asset — the eye-mark is embedded inline (base64) in index.html,
 # so the loose PNG is not needed at runtime and stays out of the repo.
 eyekyam-logo.png
+
+# Local working screenshots — not part of the site
+aiworks-screenshots/
